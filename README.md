@@ -1,4 +1,4 @@
-# Date-abase
+# Dater-base
 
 This is a project with a mission to connect nerds with their dream "programming" partners ;). users will be able to create an account and dating profile by answering a few important questions to determine your best match. You can browse other people's profile and if you like the look of someone try matching with them and see if they reciprocate. If you end up lucky you'll be able to chat.
 
@@ -19,51 +19,97 @@ npm install
 npm run start
 
 Timeline
+
 Thursday (Afternoon, design and scoping)
+
 Friday (All day)
+
 Saturday (No obligation but working allowed)
+
 Sunday (No obligation but working allowed)
+
 Monday (No obligation but working allowed)
+
 Tuesday (All day)
+
 Wednesday (All day, MVP due)
+
 Thursday (All day, refactoring)
+
 Monday (9am check ins and final changes, 10am project presentation)
+
 Group planning
+
 Our Mission
+
 Connect nerds with their dream "programming" partner ;)
+
 Team Goals $ Values
+
 MVP first
+
 Agile working
+
 Open Communication
+
 Learning together
+
 Team Communication Preferences
+
 Breakout rooms in pairs
+
 Slack messages at any time
+
 Lunchtime synchronised pulling and merging
+
 end of day review
+
 Approach
-Backend first, break into 2 pairs and work on different parts of the backend (use Postman to verify
+
+Backend first, break into 2 pairs and work on different parts of the backend (use Postman to verify).
+
 Then change the pairings and repeat for the frontend
+
 Technologies Used
+
 Stack
+
 MongoDB
+
 Express
+
 React
+
 Node.js
+
 Tailwind CSS
+
 Npm Packages
+
 Mongoose
+
 bcrypt
+
 passport
+
 react-modal
+
 react-icons
+
 Other technologies
+
 cloudinary
+
 Vscode
+
 Git
+
 Heroku
+
 Netlify
-Technical Requirements
+
+# Technical Requirements
+
 Client (Front End)
 Have a working, interactive React app, built using npx create-react-app client
 have a minimum of 6 components
@@ -76,6 +122,7 @@ Have a working generic router actions for CRUD using Express, Mongoose and Mongo
 Have at least 2 modals
 Have full CRUD on at least one of your models
 Authentication!
+
 # Styling
 
 Use flexbox or CSS Grid layout
@@ -87,7 +134,8 @@ You can use a CSS framework if you want to.
 Deploy to MongoDB database to MongoDB Atlas
 Deploy the back-end via Heroku
 Deploy the front-end via netlify
-Planning
+
+# Planning
 
 View Schema diagram here:
 https://excalidraw.com/#room=9c9f4fc8e1279bd72d46,vo3AP7_F2bYc7GiY1E9DCQ
